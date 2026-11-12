@@ -1,0 +1,13 @@
+{
+  "FileVersion": 3,
+  "EngineAssociation": "5.8",
+  "Category": "Games",
+  "Description": "AnimeLegends - 3D open-world anime adventure starter project",
+  "Modules": [
+    {
+      "Name": "AnimeLegends",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ]
+}
